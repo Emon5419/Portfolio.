@@ -118,3 +118,8 @@ section{
    letter-spacing: .1rem;
    font: 600;
 }
+.btn:hover{
+   background: transparent;
+   color: var(--main-color);
+   border-color: var(--main-color);
+}
